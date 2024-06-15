@@ -6,7 +6,7 @@
 
 This project analyzes a Netflix Dataset, which includes movies and TV shows with various attributes such as title, genre, director, cast, country, release year, rating, duration, and description. The goal is to derive insights from the data using SQL queries.
 
-### Insights as per queryies:
+### Insights as per queries:
 
 1. **Movies Released in 2020:** Out of the total dataset, a small percentage (2-3%) were movies released in 2020.
 2. **Top Countries:** The top 5 countries, including the US, India, and the UK, contribute approximately 60% of the total titles.
