@@ -1,6 +1,7 @@
 # Netflix SQL Analysis Project
 
-**OBJECTIVE:-** The objective of this project is to analyze the ratings users amidst a vast genre of movies,premiered in duration/runtime objective.
+## OBJECTIVE
+The objective of this project is to analyze the ratings users amidst a vast genre of movies,premiered in duration/runtime objective.
 
 ## Overview
 
